@@ -14,7 +14,7 @@ const LoginSection = () => {
             Checkout Form
           </h1>
         </div>
-        <div className="grid grid-cols md:grid-cols-2 bg-white p-8 rounded-3xl my-8 shadow-md">
+        <div className="grid grid-cols md:grid-cols-2 bg-white p-10 rounded-3xl my-8 shadow-md">
           <div className="flex flex-col items-center justify-center">
             <Image src="/Vector.png" width={100} height={100} alt="error" />
             <div>
